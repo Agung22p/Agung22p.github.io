@@ -404,15 +404,18 @@ body {
     height: 110vh;
 }
 
-.materi h2 {
+.materi-pelajaran{
     transform: translateY(-150px);
+}
+
+
+.materi h2 {
     margin-bottom: 2rem;
 }
 
 .container-materi{
     display: flex;
     justify-content: space-around;
-    transform: translateY(-100px);
     
 }
 
